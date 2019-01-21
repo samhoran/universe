@@ -1,0 +1,3 @@
+There is no file earth.txt, so to retroactively fill in the end of the example from the module on git (I don't think we got to this in class, but here I'll do it anyway), I'll fill in a parallel universe where there are people on Mercury:
+
+There are people on Mercury.
