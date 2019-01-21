@@ -1,0 +1,3 @@
+In the spirit of the github module, I'm creating an alternative facts branch (alternative-facts-2) that will actually have a merge conflict (I think we messed up the order in class so there was no merge conflict).
+
+Fact: the sun is hot.
